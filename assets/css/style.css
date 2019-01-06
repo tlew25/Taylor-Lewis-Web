@@ -95,7 +95,7 @@ em {
   margin-right:auto;
   padding:1em;
   box-shadow: 0 0 20px 0 rgba(72,94,116,0.7);
-  height: 800px;
+  height: 790px;
   display: grid;
   grid-template:
     "header header header section section section"

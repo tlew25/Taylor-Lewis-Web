@@ -108,7 +108,14 @@
     font-size: 12pt;
     background-color: #eee;
   }
-  
+h3,li{
+    color: #eee;
+    font-size: 14pt;
+}
+em{
+    color: #eee;
+    font-size: 12pt;
+}
   /* LARGE SCREENS */
   @media(min-width:700px){
     .wrapper{
