@@ -23,11 +23,13 @@
   }
   
   .brand{
-    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    text-align: left;
     color: #7ba2be;
   }
   
   .brand span{
+    font-family: 'Press Start 2P', cursive;
     color:#eee;
   }
   
@@ -108,9 +110,12 @@
     font-size: 12pt;
     background-color: #eee;
   }
-h3,li{
+li,h3{
     color: #eee;
     font-size: 14pt;
+}
+h4{
+    color: #7ba2be;
 }
 em{
     color: #eee;
