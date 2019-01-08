@@ -121,6 +121,13 @@ em{
     color: #eee;
     font-size: 12pt;
 }
+.pagination{
+    margin-right: 450px;
+    color: #000000;
+   }
+.page-link{
+color: #7ba2be;
+}
   /* LARGE SCREENS */
   @media(min-width:700px){
     .wrapper{
