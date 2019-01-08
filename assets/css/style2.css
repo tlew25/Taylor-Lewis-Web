@@ -25,7 +25,7 @@ ul {
 .brand {
   font-family: "Press Start 2P", cursive;
   text-align: left;
-  color: #7ba2be;
+  color: #6BA14F;
 }
 
 .brand span {
@@ -42,7 +42,7 @@ ul {
 }
 
 .company-info {
-  background: #7ba2be;
+  background: #6BA14F;
 }
 
 .company-info h3,
@@ -79,7 +79,7 @@ ul {
 .contact form textarea {
   width: 100%;
   padding: 1em;
-  border: 1px solid #7ba2be;
+  border: 1px solid #6BA14F;
 }
 
 .contact form button {
@@ -90,7 +90,7 @@ ul {
 
 .contact form button:hover,
 .contact form button:focus {
-  background: #7ba2be;
+  background: #6BA14F;
   color: #eee;
   outline: 0;
   transition: background-color 2s ease-out;
@@ -120,7 +120,7 @@ h3 {
   font-size: 14pt;
 }
 h4 {
-  color: #7ba2be;
+  color: #6BA14F;
 }
 em {
   color: #eee;
@@ -131,7 +131,7 @@ em {
   color: #000000;
 }
 .page-link {
-  color: #7ba2be;
+  color: #6BA14F;
 }
 /* LARGE SCREENS */
 @media (min-width: 700px) {
